@@ -24,7 +24,7 @@ It promotes academic collaboration, improves resource availability, and helps st
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** (Node.js, Expess.js)  
-- **Database:** (MongoDB)  
+- **Backend:** Node.js , Express.js
+- **Database:** MongoDB 
 
 ---
